@@ -9,32 +9,14 @@ https://github.com/terkelg/cursormuseum/assets/2302254/0cb70f6f-8e9a-40d2-a105-9
 ## Install
 
 ```
-$ pnpm install
-```
-
-or
-
-```
 $ npm install
 ```
 
 ## Usage
 
 ```
-$ pnpm dev
-```
-
-or
-
-```
 $ npm run dev
 ```
-
-```
-$ pnpm build
-```
-
-or
 
 ```
 $ npm run build
